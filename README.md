@@ -12,7 +12,7 @@ minikube addons enable metrics-server
 
 minikube addons list
 
-## Создаем nginx-deployment.yaml 
+\# Создаем nginx-deployment.yaml 
 
 Применяем манифест:
 
