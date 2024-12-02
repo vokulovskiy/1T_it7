@@ -1,4 +1,6 @@
-﻿minikube start
+## Итоговая аттестация. Задание 7. Автоматическое масштабирование приложения в Minikube с использованием HPA (Horizontal Pod Autoscaler)
+ 
+ minikube start
 
 minikube status
 
